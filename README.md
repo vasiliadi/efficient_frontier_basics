@@ -1,6 +1,6 @@
 # Modern Portfolio Theory (MPT) and Efficient Frontier
 
-<a target="_blank" href="https://colab.research.google.com/vasiliadi/efficient_frontier_basics/blob/main/PyPortfolioOpt_Stocks.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/vasiliadi/efficient_frontier_basics/blob/main/PyPortfolioOpt_Stocks.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
