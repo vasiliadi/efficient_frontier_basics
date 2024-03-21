@@ -1,0 +1,6 @@
+pandas
+numpy
+pyportfolioopt
+yfinance
+finvizfinance
+tqdm
