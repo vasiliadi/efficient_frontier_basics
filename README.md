@@ -43,3 +43,17 @@
 [Y!](https://finance.yahoo.com/quote/MSFT/analysis) \
 [MarketWatch](https://www.marketwatch.com/investing/stock/aapl/analystestimates?mod=mw_quote_tab) \
 [WSJ](https://www.wsj.com/market-data/quotes/GDRX/research-ratings)
+
+# Disclaimer
+
+<i>The information provided here is for general educational and entertainment purposes only. It is presented without any representation or warranties, express or implied, regarding the accuracy, completeness, or applicability of the content to your particular circumstances.
+
+The information should not be construed as professional financial, investment, tax, or legal advice. You should always seek the advice of a qualified professional before making any financial decisions.
+
+Past performance is not a guarantee of future returns. All investments carry risk, including the potential loss of principal invested. There is no assurance that any financial strategy will be successful.
+
+Any references to market performance, securities, investment strategies, portfolios, or asset allocations are provided for illustrative purposes only. They do not constitute a recommendation to buy, sell, or hold a particular investment.
+
+Please consult with a qualified investment professional before making any investment decisions. Use this information at your own risk.
+
+By accessing this repository, you agree to be bound by this disclaimer. If you do not agree with these terms, please do not use this repository.</i>
