@@ -4,6 +4,7 @@
 [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vasiliadi/efficient_frontier_basics/blob/main/PyPortfolioOpt_Stocks.ipynb) 
 [![Launch in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-white-small.svg)](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fvasiliadi%2Fefficient_frontier_basics%2Fblob%2Fmain%2FPyPortfolioOpt_Stocks.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vasiliadi/efficient_frontier_basics/main?labpath=PyPortfolioOpt_Stocks.ipynb)
+[![Run on Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/vasiliadi/efficient_frontier_basics/blob/main/PyPortfolioOpt_Stocks.ipynb)
 
 # Documentation for used libraries 
 [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/index.html) \
