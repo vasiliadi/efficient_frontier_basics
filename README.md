@@ -13,37 +13,13 @@
 
 # Other libraries can be used
 
-## Portfolio Optimization
-[FinQuant](https://github.com/fmilthaler/FinQuant) \
-[OKAMA](https://okama.readthedocs.io/en/master/)
-
-## Data
-[Tiingo](https://www.tiingo.com/documentation/end-of-day) \
-[FMP Cloud](https://fmpcloud.io/documentation/#historicalStockData) \
-[FMP](https://site.financialmodelingprep.com/developer/docs#charts) \
-[AlphaVantage](https://www.alphavantage.co/documentation/) \
-[twelvedata](https://twelvedata.com/docs#time-series) \
-[EODHD](https://eodhd.com/financial-apis/api-for-historical-data-and-volumes/)
-
-## Price Targets (paid subscription required)
-[FMP](https://site.financialmodelingprep.com/developer/docs#price-target) \
-[twelvedata](https://twelvedata.com/docs#price_target) \
-[tradefeeds](https://tradefeeds.com/) \
-[Zacks Target Price History](https://data.nasdaq.com/databases/ZTP#documentation) \
-[twelvedata](https://twelvedata.com/docs#price_target)
-
-## Stocks Lists
-[twelvedata](https://twelvedata.com/docs#stocks-list) \
-[EODHD](https://eodhd.com/financial-apis/exchanges-api-list-of-tickers-and-trading-hours/)
-
-## Analysts' Price Targets (not API)
-[Finviz.com](https://finviz.com/quote.ashx?t=AAPL&p=d) \
-[Tipranks](https://www.tipranks.com/stocks/aapl/forecast) \
-[Benzinga](https://www.benzinga.com/quote/AAPL/analyst-ratings) \
-[Barrons](https://www.barrons.com/market-data/stocks/aapl/research-ratings?mod=quotes#subnav) \
-[Y!](https://finance.yahoo.com/quote/MSFT/analysis) \
-[MarketWatch](https://www.marketwatch.com/investing/stock/aapl/analystestimates?mod=mw_quote_tab) \
-[WSJ](https://www.wsj.com/market-data/quotes/GDRX/research-ratings)
+| ‎   | Link 
+|---|---|
+| Portfolio Optimization | [FinQuant](https://github.com/fmilthaler/FinQuant)<br>[OKAMA](https://okama.readthedocs.io/en/master/)
+| Data | [Tiingo](https://www.tiingo.com/documentation/end-of-day)<br>[FMP Cloud](https://fmpcloud.io/documentation/#historicalStockData)<br>[FMP](https://site.financialmodelingprep.com/developer/docs#charts)<br>[AlphaVantage](https://www.alphavantage.co/documentation/)<br>[twelvedata](https://twelvedata.com/docs#time-series)<br>[EODHD](https://eodhd.com/financial-apis/api-for-historical-data-and-volumes/)
+| Price Targets (paid subscription required) | [FMP](https://site.financialmodelingprep.com/developer/docs#price-target)<br>[twelvedata](https://twelvedata.com/docs#price_target)<br>[tradefeeds](https://tradefeeds.com/)<br>[Zacks Target Price History](https://data.nasdaq.com/databases/ZTP#documentation)<br>[twelvedata](https://twelvedata.com/docs#price_target)
+| Stocks Lists | [twelvedata](https://twelvedata.com/docs#stocks-list)<br>[EODHD](https://eodhd.com/financial-apis/exchanges-api-list-of-tickers-and-trading-hours/)
+| Analysts' Price Targets (not API) | [Finviz.com](https://finviz.com/quote.ashx?t=AAPL&p=d)<br>[Tipranks](https://www.tipranks.com/stocks/aapl/forecast)<br>[Benzinga](https://www.benzinga.com/quote/AAPL/analyst-ratings)<br>[Barrons](https://www.barrons.com/market-data/stocks/aapl/research-ratings?mod=quotes#subnav)<br>[Y!](https://finance.yahoo.com/quote/MSFT/analysis)<br>[MarketWatch](https://www.marketwatch.com/investing/stock/aapl/analystestimates?mod=mw_quote_tab)<br>[WSJ](https://www.wsj.com/market-data/quotes/GDRX/research-ratings)
 
 # Disclaimer
 
