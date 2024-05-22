@@ -3,4 +3,4 @@ numpy==1.26.0
 pyportfolioopt==1.5.5
 yfinance==0.2.38
 finvizfinance==0.14.7
-tqdm==4.66.1
+tqdm==4.66.4
