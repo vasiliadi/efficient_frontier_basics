@@ -2,6 +2,6 @@ pandas==2.2.2
 numpy==1.26.4
 pyportfolioopt==1.5.5
 yfinance==0.2.40
-finvizfinance==0.14.7
+finvizfinance==1.0.0
 tqdm==4.66.4
 matplotlib==3.9.0
