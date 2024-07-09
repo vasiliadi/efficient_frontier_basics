@@ -4,4 +4,4 @@ pyportfolioopt==1.5.5
 yfinance==0.2.40
 finvizfinance==1.0.0
 tqdm==4.66.4
-matplotlib==3.9.0
+matplotlib==3.9.1
