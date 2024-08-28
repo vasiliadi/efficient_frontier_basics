@@ -1,5 +1,7 @@
 # Modern Portfolio Theory (MPT) and Efficient Frontier
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasiliadi/efficient_frontier_basics/blob/main/PyPortfolioOpt_Stocks.ipynb)
 [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vasiliadi/efficient_frontier_basics/blob/main/PyPortfolioOpt_Stocks.ipynb) 
 [![Launch in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-white-small.svg)](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fvasiliadi%2Fefficient_frontier_basics%2Fblob%2Fmain%2FPyPortfolioOpt_Stocks.ipynb)
